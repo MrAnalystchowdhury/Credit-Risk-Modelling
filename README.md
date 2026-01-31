@@ -84,7 +84,7 @@ Model Evaluation & Interpretation
 📂 Dataset:
 👉 https://www.kaggle.com/datasets/devanshi23/loan-data-2007-2014
 
-🔗 Google collab notebook:
+🔗 Google colab notebook:
 👉 https://colab.research.google.com/drive/1eBjiXLSTroS36ovf1pNQIYmX2M63h-Mv?usp=sharing
 
 📁 Porfolio:
